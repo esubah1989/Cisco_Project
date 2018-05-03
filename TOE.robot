@@ -1,6 +1,5 @@
 *** Settings ***
 Documentation  TOE Test Case Container
-Documentation  Test Case Repository
 
 *** Variables ***
 
